@@ -1,19 +1,21 @@
-# Hotel_Registered_Entry_Count_App
+# cMLr3asK
 
+Quick start:
 
-This GitHub repository contains a simple web application for managing hotel guest register entries. The app allows users to perform basic CRUD (Increment, save) operations on guest entries, such as adding new entries, updating existing ones. 
+```
+$ npm install
+$ npm start
+````
 
-**Key Features:**
-- **Insert Entry:** Users can add new guest entries.
-- **Update previous Entry:** Modify existing guest entries to update it.
-  
-**Technology Stack:**
-- **Frontend:** basic HTML, CSS, and JavaScript.
-- **Version Control:** The project is hosted on GitHub for collaborative development.
+Head over to https://vitejs.dev/ to learn more about using vite
+## About Scrimba
 
-**How to Use:**
-1. Clone the repository to your local machine.
-3. Run the application using an web brouser.
-4. perform CRUD operations on hotel guest register entries.
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
+The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-Feel free to contribute, report issues, or enhance the functionality of the hotel register entry count app by submitting pull requests.
+- [Our courses](https://scrimba.com/allcourses)
+- [The Frontend Career Path](https://scrimba.com/learn/frontend)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+
+Happy Coding!
